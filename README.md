@@ -1,4 +1,4 @@
-# hello-word
-all about me 
-I am a human living on the planet earth.
-love nature and food
+👋 Hi, I’m @karacodes88
+👀 I’m interested in photography and beekeeping.
+🌱 I’m currently learning coding
+💞️ I’m looking to collaborate on interesting projects.
